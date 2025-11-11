@@ -94,6 +94,7 @@ pause
 <img width="452" height="102" alt="output 10" src="https://github.com/user-attachments/assets/7b32429e-159e-4103-8882-02902e858f2e" />
 
 
+
 2.Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 - Prompt the user to enter a number.
 - Calculate the remainder when the number is divided by 2.
@@ -131,6 +132,7 @@ pause
 
 <img width="482" height="218" alt="output 11" src="https://github.com/user-attachments/assets/8a1b414f-e15e-4893-a4c8-ca392113612c" />
 
+
 3.Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 ## BATCH PROGRAM:
@@ -144,6 +146,7 @@ pause
 ## OUTPUT:
 
 <img width="493" height="183" alt="output 12" src="https://github.com/user-attachments/assets/e618269e-deb1-42dc-b4d1-f6f14ad0c3f7" />
+
 
 
 
@@ -170,6 +173,7 @@ pause
 ## OUTPUT:
 
 <img width="503" height="112" alt="output 13" src="https://github.com/user-attachments/assets/356989f5-053b-4bf2-b755-743b6111fc45" />
+
 
 5.Write a batch script that displays a simple menu with three options:
 - Say Hello – Displays the message Hello, World!
